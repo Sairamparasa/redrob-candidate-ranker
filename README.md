@@ -66,8 +66,9 @@ graph TD
 │       └── prompts.py        # Externalized JD query and rec prompts
 ├── download_model.py         # Script to fetch and save local embeddings model
 ├── rank.py                   # Main pipeline entry point
-├── team_submission.csv       # Validated submission file
-└── README.md                 # Project README
+├── team_submission.csv       # Validated submission file (CSV format)
+├── team_submission.xlsx      # Validated submission file (XLSX format)
+├── README.md                 # Project README
 ```
 
 ---
