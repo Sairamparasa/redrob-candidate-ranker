@@ -1,0 +1,101 @@
+candidate_id,rank,score,reasoning
+CAND_0018499,1,0.9475,Exceptional Senior Machine Learning Engineer with 7.2 yrs experience; expert in Weaviate and Pinecone. High platform activity and recruiter response rate of 61%.
+CAND_0068811,2,0.9426,Top-tier fit with 8.0 yrs experience. Strong background in Vector Search and Qdrant; shows excellent availability signals and low notice period.
+CAND_0067866,3,0.9419,Exceptional Senior Software Engineer (ML) with 6.4 yrs experience; expert in Embeddings and pgvector. High platform activity and recruiter response rate of 79%.
+CAND_0092255,4,0.9412,"5.2 yrs experience as ML Engineer. Demonstrated proficiency in PyTorch and Weaviate. Highly responsive candidate (38%) and located in Noida, Uttar Pradesh."
+CAND_0006567,5,0.9409,"7.9 yrs experience as Senior AI Engineer. Demonstrated proficiency in Search Backend and Vector Representations. Highly responsive candidate (79%) and located in Noida, Uttar Pradesh."
+CAND_0061257,6,0.9383,"8.0 yrs experience as Staff Machine Learning Engineer. Demonstrated proficiency in Search Infrastructure and Search Backend. Highly responsive candidate (87%) and located in Noida, Uttar Pradesh."
+CAND_0019288,7,0.9379,Strong ML engineer (5.7 yrs experience) matching our vector retrieval and ranking JD perfectly. Active on platform with 38% response rate.
+CAND_0027691,8,0.9378,"6.5 yrs experience as NLP Engineer. Demonstrated proficiency in Weaviate and Embeddings. Highly responsive candidate (68%) and located in Pune, Maharashtra."
+CAND_0046525,9,0.9377,Strong ML engineer (6.1 yrs experience) matching our vector retrieval and ranking JD perfectly. Active on platform with 88% response rate.
+CAND_0072688,10,0.9333,Exceptional Data Scientist with 6.9 yrs experience; expert in Milvus and Semantic Search. High platform activity and recruiter response rate of 87%.
+CAND_0079064,11,0.9319,Top-tier fit with 5.2 yrs experience. Strong background in OpenSearch and NLP; shows excellent availability signals and low notice period.
+CAND_0040178,12,0.9313,Exceptional ML Engineer with 5.0 yrs experience; expert in Weaviate and Vector Search. High platform activity and recruiter response rate of 55%.
+CAND_0007052,13,0.9307,Top-tier fit with 6.5 yrs experience. Strong background in Weaviate and Milvus; shows excellent availability signals and low notice period.
+CAND_0010257,14,0.9282,Strong ML engineer (6.5 yrs experience) matching our vector retrieval and ranking JD perfectly. Active on platform with 72% response rate.
+CAND_0060538,15,0.9237,"5.2 yrs experience as ML Engineer. Demonstrated proficiency in pgvector and OpenSearch. Highly responsive candidate (59%) and located in Pune, Maharashtra."
+CAND_0099269,16,0.9225,"Highly relevant technical profile (Elasticsearch and Python) with 5.5 yrs experience. However, candidate has notice period of 120 days."
+CAND_0071939,17,0.9220,Recruiter-recommended Data Scientist with 6.4 yrs experience. Skilled in Elasticsearch and OpenSearch. Notice period is 30 days.
+CAND_0093763,18,0.9211,"Highly relevant technical profile (FAISS and Vector Search) with 5.0 yrs experience. However, candidate has notice period of 90 days."
+CAND_0089947,19,0.9210,"Highly relevant technical profile (Vector Search and Elasticsearch) with 5.4 yrs experience. However, candidate has notice period of 90 days."
+CAND_0065514,20,0.9200,ML Engineer showing 6.6 yrs experience. Matches core JD requirements for Vector Search and Pinecone. Minor concern: notice period of 90 days.
+CAND_0007412,21,0.9196,Applied ML Engineer showing 7.4 yrs experience. Matches core JD requirements for Pinecone and Milvus. Minor concern: notice period of 120 days.
+CAND_0040200,22,0.9182,AI Research Engineer showing 5.5 yrs experience. Matches core JD requirements for FAISS and NLP. Minor concern: notice period of 90 days.
+CAND_0015057,23,0.9154,"ML Engineer showing 4.6 yrs experience. Matches core JD requirements for Vector Search and Embeddings. Minor concern: notice period of 90 days, experience (4.6 yrs) is under the 5-9 yr target."
+CAND_0073620,24,0.9141,"Highly relevant technical profile (Semantic Search and Python) with 4.4 yrs experience. However, candidate has notice period of 90 days, experience (4.4 yrs) is under the 5-9 yr target."
+CAND_0030348,25,0.9135,Machine Learning Engineer showing 4.5 yrs experience. Matches core JD requirements for PyTorch and Embeddings. Minor concern: experience (4.5 yrs) is under the 5-9 yr target.
+CAND_0050454,26,0.9123,Highly relevant technical profile (PyTorch and FAISS) with 6.8 yrs experience. Responsive at 77% response rate.
+CAND_0046924,27,0.9112,Solid fit with 6.3 yrs experience and expertise in Vector Search and Semantic Search. Note: notice period of 120 days.
+CAND_0082086,28,0.9096,Senior Software Engineer (ML) showing 6.0 yrs experience. Matches core JD requirements for FAISS and Pinecone. Verified profile with strong activity.
+CAND_0045250,29,0.9092,Solid fit with 6.6 yrs experience and expertise in Milvus and Embeddings. Good behavioral activity (response rate 74%).
+CAND_0007460,30,0.9083,"Highly relevant technical profile (Embeddings and Weaviate) with 4.7 yrs experience. However, candidate has notice period of 120 days, experience (4.7 yrs) is under the 5-9 yr target."
+CAND_0048558,31,0.9071,Recruiter-recommended Data Scientist with 6.7 yrs experience. Skilled in OpenSearch and Qdrant. Notice period is 30 days.
+CAND_0008978,32,0.9067,"Recruiter-recommended Junior ML Engineer with 6.7 yrs experience. Skilled in Embeddings and Elasticsearch. Keep in mind: notice period of 90 days, lower response rate of 28%."
+CAND_0081852,33,0.9063,Highly relevant technical profile (Semantic Search and Milvus) with 5.9 yrs experience. Responsive at 44% response rate.
+CAND_0060257,34,0.9058,Recruiter-recommended AI Specialist with 5.8 yrs experience. Skilled in Vector Search and Milvus. Keep in mind: notice period of 60 days.
+CAND_0037566,35,0.9057,"Machine Learning Engineer showing 6.9 yrs experience. Matches core JD requirements for Pinecone and NLP. Minor concern: located in Bangalore, Karnataka."
+CAND_0017722,36,0.9054,Recruiter-recommended Data Scientist with 5.7 yrs experience. Skilled in PyTorch and Qdrant. Notice period is 45 days.
+CAND_0067717,37,0.9050,Solid fit with 6.9 yrs experience and expertise in FAISS and PyTorch. Note: notice period of 60 days.
+CAND_0042029,38,0.9034,Recruiter-recommended Senior Data Scientist with 6.5 yrs experience. Skilled in PyTorch and NLP. Notice period is 45 days.
+CAND_0076412,39,0.9034,AI Research Engineer showing 5.8 yrs experience. Matches core JD requirements for Semantic Search and Pinecone. Minor concern: notice period of 120 days.
+CAND_0009837,40,0.9032,"Recruiter-recommended Senior Data Scientist with 4.3 yrs experience. Skilled in TensorFlow and PyTorch. Keep in mind: notice period of 60 days, experience (4.3 yrs) is under the 5-9 yr target."
+CAND_0006418,41,0.9028,Solid fit with 5.7 yrs experience and expertise in Semantic Search and Embeddings. Note: notice period of 60 days.
+CAND_0098780,42,0.9020,"Solid fit with 5.9 yrs experience and expertise in Semantic Search and Milvus. Note: notice period of 60 days, located in Bangalore, Karnataka."
+CAND_0075574,43,0.9015,"Solid fit with 5.7 yrs experience and expertise in pgvector and Weaviate. Note: notice period of 60 days, located in Bangalore, Karnataka."
+CAND_0091909,44,0.9011,"Machine Learning Engineer showing 6.9 yrs experience. Matches core JD requirements for Pinecone and Qdrant. Minor concern: located in Bangalore, Karnataka."
+CAND_0069232,45,0.9008,Solid fit with 6.3 yrs experience and expertise in Pinecone and NLP. Note: notice period of 120 days.
+CAND_0090155,46,0.8999,"Highly relevant technical profile (Milvus and Qdrant) with 5.8 yrs experience. However, candidate has notice period of 90 days."
+CAND_0039383,47,0.8994,Solid fit with 7.1 yrs experience and expertise in FAISS and NLP. Note: notice period of 90 days.
+CAND_0068351,48,0.8992,Solid fit with 6.4 yrs experience and expertise in pgvector and Qdrant. Good behavioral activity (response rate 86%).
+CAND_0029367,49,0.8986,"Highly relevant technical profile (TensorFlow and FAISS) with 5.7 yrs experience. However, candidate has notice period of 90 days, located in Bangalore, Karnataka."
+CAND_0005649,50,0.8985,Recruiter-recommended Senior Data Scientist with 7.4 yrs experience. Skilled in TensorFlow and Semantic Search. Keep in mind: notice period of 90 days.
+CAND_0098952,51,0.8984,"Adjacent AI Research Engineer with 5.5 yrs experience. Strong in OpenSearch and Semantic Search, but limited by recruiter response rate."
+CAND_0048509,52,0.8969,"Adjacent AI Research Engineer with 4.2 yrs experience. Strong in Pinecone and Python, but limited by notice period of 90 days, experience (4.2 yrs) is under the 5-9 yr target."
+CAND_0060835,53,0.8950,"Adjacent Senior Software Engineer (ML) with 6.6 yrs experience. Strong in PyTorch and FAISS, but limited by notice period of 90 days, located in Bangalore, Karnataka."
+CAND_0092278,54,0.8932,"Adjacent Senior NLP Engineer with 6.8 yrs experience. Strong in TensorFlow and pgvector, but limited by notice period of 90 days, lower response rate of 7%."
+CAND_0093193,55,0.8930,"Adjacent Senior Machine Learning Engineer with 7.9 yrs experience. Strong in Vector Representations and Qdrant, but limited by located in Bangalore, Karnataka."
+CAND_0020877,56,0.8926,Matches some JD requirements (skills: Elasticsearch and PyTorch) but has 5.1 yrs experience. Challenges: notice period of 60 days.
+CAND_0073007,57,0.8919,"Included in top 100 due to technical expertise in Milvus and PyTorch. Experience is 5.8 yrs. Gaps: notice period of 60 days, located in Bangalore, Karnataka."
+CAND_0016163,58,0.8915,Included in top 100 due to technical expertise in Weaviate and TensorFlow. Experience is 6.7 yrs. Gaps: notice period of 120 days.
+CAND_0016657,59,0.8909,Technical match on PyTorch and TensorFlow but experience is 5.3 yrs. Gaps include notice period of 60 days.
+CAND_0015578,60,0.8905,Technical match on Embeddings and NLP but experience is 5.4 yrs. Gaps include notice period of 90 days.
+CAND_0087630,61,0.8902,Included in top 100 due to technical expertise in Elasticsearch and pgvector. Experience is 7.2 yrs. Gaps: notice period.
+CAND_0095213,62,0.8902,Technical match on Python and Weaviate but experience is 5.1 yrs. Gaps include notice period of 60 days.
+CAND_0096142,63,0.8902,"Matches some JD requirements (skills: Weaviate and Pinecone) but has 5.0 yrs experience. Challenges: notice period of 120 days, located in Hyderabad, Telangana."
+CAND_0010541,64,0.8901,"Adjacent AI Research Engineer with 6.2 yrs experience. Strong in Pinecone and Weaviate, but limited by notice period of 60 days, located in Hyderabad, Telangana."
+CAND_0051004,65,0.8893,Technical match on Embeddings and Semantic Search but experience is 4.7 yrs. Gaps include experience (4.7 yrs) is under the 5-9 yr target.
+CAND_0046353,66,0.8889,Matches some JD requirements (skills: PyTorch and FAISS) but has 6.4 yrs experience. Challenges: notice period of 120 days.
+CAND_0013393,67,0.8888,"Matches some JD requirements (skills: Embeddings and Pinecone) but has 5.3 yrs experience. Challenges: notice period of 60 days, located in Bangalore, Karnataka."
+CAND_0010283,68,0.8887,"Included in top 100 due to technical expertise in Vector Search and Embeddings. Experience is 5.3 yrs. Gaps: notice period of 120 days, located in Mumbai, Maharashtra."
+CAND_0091890,69,0.8887,"Included in top 100 due to technical expertise in Elasticsearch and Pinecone. Experience is 4.7 yrs. Gaps: notice period of 60 days, experience (4.7 yrs) is under the 5-9 yr target, located in Hyderabad, Telangana."
+CAND_0019880,70,0.8886,"Adjacent AI Specialist with 5.7 yrs experience. Strong in Embeddings and NLP, but limited by recruiter response rate."
+CAND_0066376,71,0.8884,"Adjacent Applied ML Engineer with 5.7 yrs experience. Strong in NLP and FAISS, but limited by notice period of 90 days, located in Mumbai, Maharashtra."
+CAND_0079284,72,0.8884,"Adjacent Machine Learning Engineer with 4.9 yrs experience. Strong in Qdrant and Elasticsearch, but limited by experience (4.9 yrs) is under the 5-9 yr target, located in Hyderabad, Telangana."
+CAND_0066791,73,0.8876,"Adjacent Senior Software Engineer (ML) with 5.6 yrs experience. Strong in Python and PyTorch, but limited by notice period of 120 days."
+CAND_0061175,74,0.8865,Matches some JD requirements (skills: Python and Milvus) but has 6.7 yrs experience. Challenges: notice period of 120 days.
+CAND_0072195,75,0.8860,"Matches some JD requirements (skills: OpenSearch and Weaviate) but has 4.8 yrs experience. Challenges: notice period of 120 days, experience (4.8 yrs) is under the 5-9 yr target."
+CAND_0027801,76,0.8856,"Included in top 100 due to technical expertise in FAISS and Milvus. Experience is 7.4 yrs. Gaps: notice period of 120 days, located in Hyderabad, Telangana."
+CAND_0050297,77,0.8848,Included in top 100 due to technical expertise in OpenSearch and TensorFlow. Experience is 3.1 yrs. Gaps: experience (3.1 yrs) is under the 5-9 yr target.
+CAND_0054123,78,0.8844,"Adjacent Applied ML Engineer with 4.7 yrs experience. Strong in pgvector and Python, but limited by notice period of 60 days, experience (4.7 yrs) is under the 5-9 yr target."
+CAND_0091899,79,0.8842,"Adjacent Senior Software Engineer (ML) with 5.8 yrs experience. Strong in Semantic Search and FAISS, but limited by notice period of 60 days."
+CAND_0069771,80,0.8837,"Matches some JD requirements (skills: Elasticsearch and FAISS) but has 5.7 yrs experience. Challenges: located in Mumbai, Maharashtra."
+CAND_0007596,81,0.8834,Included in top 100 due to technical expertise in Python and Weaviate. Experience is 4.4 yrs. Gaps: experience (4.4 yrs) is under the 5-9 yr target.
+CAND_0073314,82,0.8824,Technical match on Milvus and Elasticsearch but experience is 5.2 yrs. Gaps include notice period of 60 days.
+CAND_0008295,83,0.8812,"Adjacent AI Research Engineer with 6.5 yrs experience. Strong in Python and Weaviate, but limited by recruiter response rate."
+CAND_0045475,84,0.8812,"Technical match on PyTorch and Pinecone but experience is 4.9 yrs. Gaps include notice period of 60 days, experience (4.9 yrs) is under the 5-9 yr target."
+CAND_0030784,85,0.8806,"Adjacent Data Scientist with 4.4 yrs experience. Strong in Embeddings and Pinecone, but limited by notice period of 90 days, experience (4.4 yrs) is under the 5-9 yr target."
+CAND_0010149,86,0.8803,"Included in top 100 due to technical expertise in Milvus and Vector Search. Experience is 6.9 yrs. Gaps: notice period of 90 days, located in Bangalore, Karnataka."
+CAND_0070514,87,0.8799,"Technical match on Pinecone and Python but experience is 5.5 yrs. Gaps include notice period of 60 days, located in Bangalore, Karnataka."
+CAND_0081480,88,0.8795,Technical match on Vector Search and PyTorch but experience is 5.6 yrs. Gaps include notice period of 60 days.
+CAND_0088385,89,0.8792,"Adjacent Computer Vision Engineer with 7.0 yrs experience. Strong in PyTorch and Milvus, but limited by notice period of 90 days, located in Bangalore, Karnataka."
+CAND_0007088,90,0.8791,"Adjacent ML Engineer with 4.4 yrs experience. Strong in Elasticsearch and FAISS, but limited by notice period of 90 days, experience (4.4 yrs) is under the 5-9 yr target."
+CAND_0018961,91,0.8790,"Matches some JD requirements (skills: NLP and Weaviate) but has 5.0 yrs experience. Challenges: notice period of 60 days, lower response rate of 26%, located in Bangalore, Karnataka."
+CAND_0011263,92,0.8788,Technical match on Pinecone and OpenSearch but experience is 5.1 yrs. Gaps include notice period of 60 days.
+CAND_0047327,93,0.8782,Matches some JD requirements (skills: OpenSearch and Qdrant) but has 5.0 yrs experience. Challenges: notice period of 60 days.
+CAND_0037160,94,0.8779,"Included in top 100 due to technical expertise in Weaviate and Vector Search. Experience is 6.0 yrs. Gaps: located in Mumbai, Maharashtra."
+CAND_0005311,95,0.8778,"Adjacent AI Research Engineer with 5.7 yrs experience. Strong in Semantic Search and Qdrant, but limited by lower response rate of 28%, located in Mumbai, Maharashtra."
+CAND_0018094,96,0.8776,"Matches some JD requirements (skills: Semantic Search and Pinecone) but has 5.2 yrs experience. Challenges: located in Bangalore, Karnataka."
+CAND_0062009,97,0.8776,"Matches some JD requirements (skills: PyTorch and Elasticsearch) but has 5.9 yrs experience. Challenges: notice period of 120 days, located in Bangalore, Karnataka."
+CAND_0011125,98,0.8765,"Technical match on Embeddings and Milvus but experience is 6.6 yrs. Gaps include notice period of 120 days, located in Bangalore, Karnataka."
+CAND_0094759,99,0.8764,"Matches some JD requirements (skills: Semantic Search and Qdrant) but has 8.6 yrs experience. Challenges: lower response rate of 11%, located in Mumbai, Maharashtra."
+CAND_0008517,100,0.8761,Matches some JD requirements (skills: Qdrant and PyTorch) but has 5.6 yrs experience. Challenges: notice period of 120 days.

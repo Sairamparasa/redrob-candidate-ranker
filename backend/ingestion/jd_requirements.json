@@ -1,0 +1,32 @@
+{
+  "role": "Principal / Senior ML/AI Engineer",
+  "min_experience_years": 5.0,
+  "max_experience_years": 9.0,
+  "target_experience_years": 7.0,
+  "core_skills": [
+    "embeddings", "sentence-transformers", "vector database", "faiss", "pinecone", 
+    "weaviate", "qdrant", "milvus", "opensearch", "elasticsearch", "python", 
+    "ndcg", "mrr", "map", "learning-to-rank", "xgboost", "pytorch", "tensorflow", 
+    "nlp", "information retrieval", "hybrid search", "search", "ranking", 
+    "recommendation system", "scikit-learn"
+  ],
+  "preferred_skills": [
+    "lora", "qlora", "peft", "llm fine-tuning", "distributed systems", 
+    "inference optimization", "hr-tech", "recruiting tech", "marketplace"
+  ],
+  "disqualified_titles": [
+    "hr manager", "human resources", "marketing manager", "accountant", 
+    "graphic designer", "civil engineer", "mechanical engineer", "sales executive", 
+    "content writer", "customer support", "business analyst", "operations manager", 
+    "finance", "recruiter", "talent acquisition", "teacher", "professor", "academic"
+  ],
+  "disqualified_companies": [
+    "tcs", "tata consultancy services", "infosys", "wipro", "accenture", 
+    "cognizant", "capgemini", "hcl", "tech mahindra", "l&t infotech"
+  ],
+  "preferred_locations": [
+    "noida", "pune", "delhi", "ncr", "gurgaon", "bangalore", "bengaluru", 
+    "hyderabad", "mumbai"
+  ],
+  "target_notice_period_days": 30
+}

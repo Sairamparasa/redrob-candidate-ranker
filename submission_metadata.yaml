@@ -1,0 +1,76 @@
+# Redrob Hackathon — Submission Metadata
+# Prefilled metadata for Stage 3 validation
+
+# ============================================================================
+# Team identity
+# ============================================================================
+team_name: "Sairamparasa"  # Used in leaderboard and announcements
+
+primary_contact:
+  name: "Sairam Parasa"
+  email: "sairam@example.com"    # Update this with your registered email
+  phone: "+91-XXXXXXXXXX"        # Update this with your registered phone number
+
+team_members:
+  - name: "Sairam Parasa"
+    email: "sairam@example.com"
+    role: "ML Engineer"
+
+# ============================================================================
+# Code and reproducibility
+# ============================================================================
+github_repo: "https://github.com/Sairamparasa/redrob-candidate-ranker"
+# Sandbox hosted environment (e.g. HuggingFace Space or Colab)
+sandbox_link: "https://huggingface.co/spaces/Sairamparasa/redrob-ranker"
+
+reproduce_command: "python rank.py --candidates ./candidates.jsonl --out ./team_submission.csv"
+# The single command that produces submission.csv from candidates.jsonl.
+# Should run end-to-end within 5 minutes on CPU with 16GB RAM and no network.
+
+# ============================================================================
+# Compute environment
+# ============================================================================
+compute:
+  platform: "Local PC"                          # MacBook Pro, AWS, etc.
+  cpu_cores: 8                                  # Number of CPU cores used
+  ram_gb: 16                                    # Available RAM in GB
+  python_version: "3.10.4"                      # python --version
+  os: "Windows 11"                              # Operating System
+  uses_gpu_for_inference: false                 # Must be false — see compute constraints
+  has_network_during_ranking: false             # Must be false — no API calls during ranking
+  pre_computation_required: false               # true if you pre-compute embeddings offline
+  pre_computation_time_minutes: 0               # Approximate, if applicable
+
+# ============================================================================
+# AI tools declaration
+# ============================================================================
+ai_tools_used:
+  - "Gemini"
+  - "Claude"
+
+ai_usage_summary: |
+  Used Gemini (Antigravity agent) for pipeline design, modular package refactoring,
+  implementation of Stage 1 & Stage 2 retrieval pipelines, honeypot filters,
+  and formatting validation checks.
+
+# ============================================================================
+# Approach summary
+# ============================================================================
+methodology_summary: |
+  A two-stage hybrid retrieval and ranking pipeline. Stage 1 executes a fast heuristic 
+  pass filtering out 7.5k honeypots (Expert skills with 0 duration, chronologically 
+  impossible jobs, signup timeline violations) and keyword-stuffer traps (Unrelated current 
+  titles like HR/Marketing Managers). Stage 2 computes local offline SentenceTransformer 
+  embeddings (all-MiniLM-L6-v2) for the top 1500 candidates. The final score integrates title 
+  match, skill proficiency, experience alignment (5-9 yrs), behavioral signals (recruiter 
+  response rate, last active, notice period), and location multipliers.
+
+# ============================================================================
+# Declarations
+# ============================================================================
+declarations:
+  read_submission_spec: true        # I have read submission_spec.md in full
+  code_is_original_work: true       # My code is my team's original work
+  no_collusion: true                # I have not coordinated my submission with other teams
+  honeypot_check_done: true         # Set true as we explicitly checked and skipped honeypots
+  reproduction_tested: true         # I have tested that my reproduce_command runs end-to-end
